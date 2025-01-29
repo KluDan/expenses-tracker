@@ -1,6 +1,5 @@
 import ExpensesForm from "@/components/expenses-form";
 import ExpensesList from "@/components/expenses-list";
-import { useState } from "react";
 
 export default function Page() {
   return (
